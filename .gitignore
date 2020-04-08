@@ -1,3 +1,7 @@
 debug.log
 
 .env
+
+.vscode
+
+.idea
